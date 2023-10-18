@@ -1,5 +1,4 @@
 #
-Certainly, you can consolidate all the content into a single markdown file. Here's the entire content in a single file:
 
 ```markdown
 # Telegram Bot with Pyrogram
